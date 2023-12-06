@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @German147ss
 - 👀 I’m interested in Education 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on GO
 - 📫 How to reach me: martinezmendietagerman@gmail.com
 
